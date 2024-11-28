@@ -10,7 +10,7 @@ Currently, I'm pursuing a double degree at IMT Mines Alès, specializing in Soft
 
 This project provides a implementation of the Ambient Calculus programming language. It covers the essential aspects of running the language, grammatical categories, code descriptions, and concluding remarks. Notably, the project leverages ANTLR4 with Go and Dot to facilitate syntax tree generation.
 
-### [ChatApp](https://github.com/your-repo-link)
+### [ChatApp](https://github.com/Sebas03446/ChatApp)
 
 A personal project exploring generative AI models. The application features a specialized API to create an initial character for generating the first prompt. 
 
